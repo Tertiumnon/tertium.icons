@@ -1,0 +1,122 @@
+@font-face {
+  font-family: 'tertium.icons';
+  src:  url('fonts/tertium.icons.eot?uzsxnq');
+  src:  url('fonts/tertium.icons.eot?uzsxnq#iefix') format('embedded-opentype'),
+    url('fonts/tertium.icons.ttf?uzsxnq') format('truetype'),
+    url('fonts/tertium.icons.woff?uzsxnq') format('woff'),
+    url('fonts/tertium.icons.svg?uzsxnq#tertium.icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'tertium.icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tertium-action-cancel:before {
+  content: "\e900";
+}
+.icon-tertium-action-close:before {
+  content: "\e901";
+}
+.icon-tertium-action-exit:before {
+  content: "\e902";
+}
+.icon-tertium-action-mail:before {
+  content: "\e903";
+}
+.icon-tertium-action-search:before {
+  content: "\e904";
+}
+.icon-tertium-arrow-down:before {
+  content: "\e905";
+}
+.icon-tertium-arrow-left:before {
+  content: "\e906";
+}
+.icon-tertium-arrow-right:before {
+  content: "\e907";
+}
+.icon-tertium-arrow-up:before {
+  content: "\e908";
+}
+.icon-tertium-calendar:before {
+  content: "\e909";
+}
+.icon-tertium-checkbox-checked:before {
+  content: "\e90a";
+}
+.icon-tertium-checkbox-empty:before {
+  content: "\e90b";
+}
+.icon-tertium-chevron-down:before {
+  content: "\e90c";
+}
+.icon-tertium-chevron-left:before {
+  content: "\e90d";
+}
+.icon-tertium-chevron-right:before {
+  content: "\e90e";
+}
+.icon-tertium-chevron-up:before {
+  content: "\e90f";
+}
+.icon-tertium-file-excel:before {
+  content: "\e910";
+}
+.icon-tertium-slim-action-close:before {
+  content: "\e911";
+}
+.icon-tertium-slim-action-enter:before {
+  content: "\e912";
+}
+.icon-tertium-slim-arrow-down:before {
+  content: "\e913";
+}
+.icon-tertium-slim-arrow-left:before {
+  content: "\e914";
+}
+.icon-tertium-slim-arrow-right:before {
+  content: "\e915";
+}
+.icon-tertium-slim-arrow-up:before {
+  content: "\e916";
+}
+.icon-tertium-slim-checkbox-checked:before {
+  content: "\e917";
+}
+.icon-tertium-slim-link:before {
+  content: "\e918";
+}
+.icon-tertium-slim-menu-hamburger:before {
+  content: "\e919";
+}
+.icon-tertium-social-behance:before {
+  content: "\e91a";
+}
+.icon-tertium-social-github:before {
+  content: "\e91b";
+}
+.icon-tertium-triangle-down:before {
+  content: "\e91c";
+}
+.icon-tertium-triangle-left:before {
+  content: "\e91d";
+}
+.icon-tertium-triangle-right:before {
+  content: "\e91e";
+}
+.icon-tertium-triangle-up:before {
+  content: "\e91f";
+}
